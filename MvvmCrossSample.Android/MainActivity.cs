@@ -2,9 +2,9 @@
 using Android.Widget;
 using Android.OS;
 
-namespace MvvmCrossSample
+namespace MvvmCrossSample.Android
 {
-    [Activity(Label = "MvvmCrossSample", MainLauncher = true, Icon = "@mipmap/icon")]
+    [Activity(Label = "MvvmCrossSample.Android", MainLauncher = true, Icon = "@mipmap/icon")]
     public class MainActivity : Activity
     {
         int count = 1;

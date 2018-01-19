@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("MvvmCrossSample.Resource", IsApplication=true)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("MvvmCrossSample.Android.Resource", IsApplication=true)]
 
-namespace MvvmCrossSample
+namespace MvvmCrossSample.Android
 {
 	
 	

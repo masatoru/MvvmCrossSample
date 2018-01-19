@@ -5,12 +5,12 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{D130149D-729F-4451-ACC0-ACB4E2FBBA5B}</ProjectGuid>
+    <ProjectGuid>{88443F33-3C7F-40B9-B6D5-6E0476AC12DB}</ProjectGuid>
     <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MvvmCrossSample</RootNamespace>
-    <AssemblyName>MvvmCrossSample</AssemblyName>
+    <RootNamespace>MvvmCrossSample.Android</RootNamespace>
+    <AssemblyName>MvvmCrossSample.Android</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <AndroidApplication>True</AndroidApplication>
     <AndroidResgenFile>Resources\Resource.Designer.cs</AndroidResgenFile>
